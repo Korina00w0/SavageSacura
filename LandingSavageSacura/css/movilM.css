@@ -1,0 +1,62 @@
+@media screen and (max-width: 424px) {
+
+    /*-------Header-------*/
+    .cajared {
+        margin-left: 60%;
+    }
+
+    #back-back {
+        height: 150vh;
+        width: 250%;
+        transform: rotate(155deg);
+        top: -250px;
+        right: -300px;
+    }
+
+    /*-------Formulario + Boton aviso de privacidad-------*/
+    #promo {
+        margin-left: 95px;
+        margin-top: -30px;
+    }
+
+    .parrafo {
+        text-align: center;
+    }
+
+    #info {
+        margin-top: 17px;
+    }
+
+    #abrirAviso {
+        margin: 5px 0px 0px 49%;
+    }
+
+    /*-------Fotos-------*/
+
+    #productos {
+        position: absolute;
+        top: 85%;
+    }
+
+    .ima {
+        height: 176px;
+        width: 320px;
+    }
+
+    .g {
+        margin: -40px 0 0 200px;
+    }
+
+    /*-------Aviso de privacidad-------*/
+    .aviss {
+        width: 61%;
+        height: 160vh;
+    }
+
+    .aviso-contenido {
+        width: 80%;
+        height: 85%;
+        top: 0px;
+        margin: 5%;
+    }
+}
